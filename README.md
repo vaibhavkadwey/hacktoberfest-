@@ -1,2 +1,2 @@
-# hacktoberfest-
+# hacktoberfest
 hacktoberfest accepted
